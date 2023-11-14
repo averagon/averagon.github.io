@@ -1,0 +1,51 @@
+#navbar-example2{
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F9C407;
+  
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #F9C407;
+  color: white;
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.portfolio{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+.icono{
+  border-radius:  50px;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: left;
+  padding: 10px;
+  background-color: #73457a;
+  color: #fff;
+}
+.images{
+  justify-content: end;
+  flex-direction: row;
+}
+.about-me{
+  justify-content: center;
+  margin: 0,0,0,40;
+}
+
+.card{
+  text-align: justify;
+  background-color: rgb(218, 108, 218);
+
+}
+.card-img-overlay{
+  text-align: end;
+  flex-direction: row;
+}
+
