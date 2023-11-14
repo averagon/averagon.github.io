@@ -2,13 +2,12 @@
   justify-content: center;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #F9C407;
+  font-size: medium;
+  color:black;
   
 }
 .header {
-  padding: 60px;
   text-align: center;
-  background: #F9C407;
-  color: white;
   font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -41,11 +40,18 @@
 
 .card{
   text-align: justify;
-  background-color: rgb(218, 108, 218);
-
 }
 .card-img-overlay{
   text-align: end;
   flex-direction: row;
+}
+.contenido-wrapper{
+  background: #F9C407;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  margin: auto;
+  overflow:hidden;
+
 }
 
