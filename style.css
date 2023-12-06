@@ -163,7 +163,7 @@ div.introduccion aside{
 .arrow{
   justify-content:flex-end;
   align-self: flex-end;
-  /* position: fixed; */
+  position: fixed;
   bottom: 150px;
   right: 0;
 }
